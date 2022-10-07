@@ -1,0 +1,12 @@
+
+.classimage {
+    width: 300px;
+    height: 300px;
+}
+
+.thumbnail > img, .thumbnail a > img {
+    margin-right: auto;
+    margin-left: auto;
+    height: 300px;
+}
+
